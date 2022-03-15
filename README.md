@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahesh</h1>
-<h3 align="center">Full stack webdeveloper Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
+<h3 align="center">Full stack webdeveloper Engineer</h3>
 
 - 🌱 I’m currently learning **React**
 
