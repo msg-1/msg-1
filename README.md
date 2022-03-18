@@ -14,7 +14,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MYpyN72dtHvSqF-ErIeAJ__NsPMlFKed/view?usp=sharing](https://drive.google.com/file/d/1MYpyN72dtHvSqF-ErIeAJ__NsPMlFKed/view?usp=sharing)
 
 <!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=msg-1)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=msg-1&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=msg-1&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
