@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-silk-ten.vercel.app/](https://mahesh.vercel.app/)
+- 👨‍💻 All of my projects are available at [Mahesh](https://mahesh.vercel.app/)
 
 - 💬 Ask me about **MERN**
 
