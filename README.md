@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msg-1&label=Profile%20views&color=0e75b6&style=flat" alt="msg-1" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m a Software Engineer.
 
 - 👨‍💻 All of my projects are available at [Mahesh](https://mahesh.vercel.app/)
 
